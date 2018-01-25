@@ -100,10 +100,9 @@ text-shadow: 2px 2px lightgrey;
 .section_heading h1{
  text-decoration-style:dotted;
  text-shadow: 2px 2px lightgrey;
-font-family: 'Source Sans Pro', sans-serif;
-letter-spacing: .5px;
-
-padding: 2px;
+ font-family: 'Source Sans Pro', sans-serif;
+ letter-spacing: .5px;
+ padding: 2px;
 }
 
 
